@@ -1,0 +1,57 @@
+/* Main styling */
+.stApp {
+    max-width: 1200px;
+    margin: 0 auto;
+}
+
+/* Tech cards */
+.tech-card {
+    background: #000;
+    border-radius: 10px;
+    padding: 15px;
+    margin-bottom: 15px;
+    text-align: center;
+    box-shadow: 0 2px 5px rgba(0,0,0,0.1);
+}
+
+.tech-icon {
+    font-size: 2rem;
+    display: block;
+}
+
+.tech-name {
+    font-weight: bold;
+}
+
+/* Project cards */
+.stExpander {
+    background: black;
+    border-radius: 10px;
+    padding: 15px;
+    margin-bottom: 20px;
+    box-shadow: 0 2px 10px rgba(0,0,0,0.1);
+}
+
+/* Contact form */
+form {
+    background: grey;
+    padding: 20px;
+    border-radius: 10px;
+}
+
+form input, form textarea {
+    width: 100%;
+    padding: 10px;
+    margin-bottom: 10px;
+    border: 1px solid #ddd;
+    border-radius: 5px;
+}
+
+form button {
+    background: #4CAF50;
+    color: black;
+    border: none;
+    padding: 10px 20px;
+    border-radius: 5px;
+    cursor: pointer;
+}

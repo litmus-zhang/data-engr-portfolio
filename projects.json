@@ -1,0 +1,18 @@
+[
+    {
+        "title": "Autonomous Delivery Robot",
+        "image": "profile.jpg",
+        "short_description": "AI-powered robot for campus deliveries",
+        "long_description": "This project involved developing a ROS-based autonomous robot capable of navigating university campuses to deliver packages. The system uses LIDAR for SLAM and a custom object detection model for obstacle avoidance.",
+        "technologies": "ROS, Python, OpenCV, TensorFlow",
+        "link": "https://github.com/yourusername/delivery-robot"
+    },
+    {
+        "title": "AI-Powered Waste Sorter",
+        "image": "profile.jpg",
+        "short_description": "Computer vision system for recycling",
+        "long_description": "A deep learning model trained to classify waste into 6 categories with 94% accuracy. Deployed on a Raspberry Pi with a conveyor belt system for automated sorting.",
+        "technologies": "Python, TensorFlow, Raspberry Pi",
+        "link": "https://github.com/yourusername/waste-sorter"
+    }
+]
